@@ -2,6 +2,11 @@
 <h2 align="left">Hi 👋! My name is Sotiris</h2>
 
 ###
+🔭 I’m currently working on **a mobile Password Manager**
+
+🌱 I’m currently learning **React Native**
+
+📫 How to reach me **soto.mele.dev@gmail.com**
 
 <br clear="both">
 
@@ -44,6 +49,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
