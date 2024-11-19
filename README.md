@@ -2,7 +2,7 @@
 <h2 align="left">Hi 👋! My name is Sotiris</h2>
 
 ###
-🔭 I’m currently working on **a mobile Password Manager**
+🔭 I’m currently working on **A Mobile Secure Data Vault**
 
 🌱 I’m currently learning **React Native**
 
