@@ -2,11 +2,22 @@
 <h2 align="left">Hi 👋! My name is Sotiris</h2>
 
 ###
-🔭 I’m currently working on **A Mobile Secure Data Vault**
+🎓 I'm a **Computer Science graduate** from the University of Cyprus, originally from the beautiful island of **Rhodes, Greece** 🇬🇷.
 
-🌱 I’m currently learning **React Native**
+## 💼 What I Do
 
-📫 How to reach me **soto.mele.dev@gmail.com**
+- 💻 **Web Developer**
+  - Frontend & Backend development
+  - Building fast, responsive websites
+- 🛒 **E-commerce Specialist**
+  - Expert in **WooCommerce**
+  - Experience with **Shopify** and **Etsy** store setups
+- 📱 **Mobile Developer (Android)**
+  - Some experience in building Android apps using Java and React Native
+
+## 📫 Connect with Me
+
+Feel free to reach out at **soto.mele.dev@gmail.com** if you want to collaborate, or if you're looking for help building a website or e-shop!
 
 <br clear="both">
 
