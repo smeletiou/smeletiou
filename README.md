@@ -98,6 +98,6 @@ Feel free to reach out at **soto.mele.dev@gmail.com** if you want to collaborate
 </div>
 
 <h2 align="left">Support:</h2>
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/smeletiou"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/smeletiou" /></a>
-<a href="https://ko-fi.com/ko-fi.com/smeletiou"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/smeletiou" /></a>
+<p><a href="https://buymeacoffee.com/smeletiou"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/smeletiou" /></a>
+<a href="https://ko-fi.com/smeletiou"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/smeletiou" /></a>
 </p><br><br>
