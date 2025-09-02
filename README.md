@@ -15,9 +15,7 @@
 - 📱 **Mobile Developer (Android)**
   - Some experience in building Android apps using Java and React Native
 
-## 📫 Connect with Me
-
-Feel free to reach out at **soto.mele.dev@gmail.com** if you want to collaborate, or if you're looking for help building a website or e-shop!
+###
 
 <br clear="both">
 
@@ -34,6 +32,8 @@ Feel free to reach out at **soto.mele.dev@gmail.com** if you want to collaborate
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
@@ -49,6 +49,8 @@ Feel free to reach out at **soto.mele.dev@gmail.com** if you want to collaborate
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
@@ -96,6 +98,28 @@ Feel free to reach out at **soto.mele.dev@gmail.com** if you want to collaborate
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
 </div>
+
+## 📫 Connect with Me
+Feel free to reach out if you want to collaborate, or if you're looking for help building a website or e-shop!
+<div align="left">
+  <a href="https://www.linkedin.com/in/sotiris-meletiou/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://gitlab.com/smeletiou" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo"  />
+  </a>
+  <a href="mailto:soto.mele.dev@gmail.com?subject=Hello&body=Hi%20there%2C" aria-label="Email me">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Email me via Gmail" />
+  </a>
+  <a href="https://codepen.io/Sotiris-Meletiou" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+  </a>
+  <a href="https://dev.to/sotirismeletiou" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
+  </a>
+</div>
+
+###
 
 <h2 align="left">Support:</h2>
 <p><a href="https://buymeacoffee.com/smeletiou"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/smeletiou" /></a>
