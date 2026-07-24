@@ -34,39 +34,54 @@ Whether it's building an e-commerce platform, integrating third-party APIs, deve
 
 ---
 
-# 🚀 What I Do
+## 🚀 What I Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🛒 E-commerce Development
+- Custom WooCommerce development
+- WordPress websites
+- Shopify stores
+- Etsy store setup & optimization
+- Payment & shipping integrations
+- Performance optimization
 
-- Custom WooCommerce Development
-- WordPress Websites
-- Shopify Stores
-- Etsy Store Setup & Optimization
-- Payment & Shipping Integrations
-- Website Performance Optimization
+</td>
+<td width="50%" valign="top">
 
 ### 💻 Full Stack Development
-
-- Modern Web Applications
-- Responsive Websites
+- Responsive websites
+- Custom web applications
 - REST APIs
-- Authentication Systems
-- Database Design
-- Admin Dashboards
+- Authentication systems
+- Database design
+- Admin dashboards
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### ⚙️ Business Automation
+- Workflow automation
+- API integrations
+- Custom management systems
+- Business process optimization
 
-- Workflow Automation
-- API Integrations
-- Internal Business Tools
-- Custom Management Systems
-- Process Optimization
+</td>
+<td width="50%" valign="top">
 
 ### 📱 Mobile Development
+- Android applications
+- React Native applications
+- Firebase integration
 
-- Android Applications
-- React Native Apps
-- Firebase Integration
+</td>
+</tr>
+</table>
 
 ---
 
