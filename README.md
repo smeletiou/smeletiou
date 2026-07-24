@@ -1,4 +1,3 @@
-
 <h2 align="left">Hi 👋! My name is Sotiris</h2>
 
 ###
@@ -20,7 +19,13 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/smeletiou/smeletiou/output/snake.svg" alt="Snake animation" />
-
+<br clear="both">
+###
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smeletiou/smeletiou/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smeletiou/smeletiou/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/smeletiou/smeletiou/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 ###
 
 <div align="center">
@@ -126,7 +131,11 @@ Feel free to reach out if you want to collaborate, or if you're looking for help
 </div>
 
 ###
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:smeletiou?theme=3d-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
+###
 <h2 align="left">Support:</h2>
 <p><a href="https://buymeacoffee.com/smeletiou"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/smeletiou" /></a>
 <a href="https://ko-fi.com/smeletiou"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/smeletiou" /></a>
