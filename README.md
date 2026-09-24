@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sotiris Meletiou</h1>
 
 <h3 align="center">
-Full Stack Developer • E-commerce • Automation
+Software Engineer • E-commerce • Automation
 </h3>
 
 <p align="center">
